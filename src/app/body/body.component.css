@@ -1,0 +1,10 @@
+.body{
+    max-width: 90%;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+.bodytitle{
+    font-weight: bold;
+    font-size: 17px;
+}

@@ -1,0 +1,28 @@
+.navtopo{
+    background-color: #2B3B57 !important;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    height: 100%;
+}
+.menutopo{
+    height: auto !important;
+    
+}
+.titletop{
+    margin-left: 80px;
+    font-size: large;
+    font-style: normal;
+    font-family: MontserratAlternates;
+}
+.btntop{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.imglogo{
+    width: 90px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;   
+}

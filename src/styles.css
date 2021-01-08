@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(242, 242, 242) !important;
+}
+@font-face {
+    font-family: MontserratAlternates;
+    src: 
+    url(assets/font/MontserratAlternates-Regular.ttf) format("truetype");
+  }

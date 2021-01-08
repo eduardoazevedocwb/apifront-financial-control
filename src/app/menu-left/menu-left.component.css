@@ -1,0 +1,24 @@
+.menuleft{
+    margin-left: 20%;
+    max-width: 80%;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+.menutitle{
+    font-family:sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px !important;
+}
+.menuitem{
+    background-color: transparent !important;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.menutext{
+    font-family:sans-serif;
+    font-size: 17px;
+}
